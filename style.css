@@ -18,6 +18,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    font-size: 15px;
     background-color: var(--Light-gray);
 
     font-family: var(--font-primary);
@@ -54,7 +55,6 @@ body{
 
 .text-description{
     font-weight: 400;
-    font-size: 15px;
     color: var(--Grayish-blue);
 }
 
